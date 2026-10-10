@@ -1,6 +1,6 @@
 {
   "name": "bloom-filter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Checks membership with adjustable error odds and low memory use.",
   "type": "module",
   "main": "src/index.js",
